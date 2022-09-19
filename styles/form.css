@@ -92,3 +92,13 @@ input {
 .full-name{
     width: 360px;
 }
+
+input:hover{
+    box-shadow: 0 0 5px 0px white;
+    transition: all 200ms ease-out;
+}
+
+.btn-success:hover{
+    box-shadow: 0 0 12px 12px white;
+    transition: all 200ms ease-out;
+}
